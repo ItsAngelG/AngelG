@@ -12,3 +12,5 @@ Although I'm still growing in my tech journey, I am always eager to learn new th
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 
+## **Featured Projects**
+**[Warehouse Management System](https://github.com/ItsAngelG/warehouse-management-system.git)** – A Python-based program for managing warehouse inventory, processing orders, and organizing shipping operations.
